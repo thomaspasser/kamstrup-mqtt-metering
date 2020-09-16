@@ -1,6 +1,8 @@
 # kamstrup-mqtt-metering
 
 A two-piece solution for reading Kamstrup Omnipower meters with an ESP8266, MQTT and Python3.
+The ESP8266 is connected to the serial pins on the CCC port of the meter.
+
 The new meter firmware from 1st half of 2020 is required.
 
 Repository folders:
