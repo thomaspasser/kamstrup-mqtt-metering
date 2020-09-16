@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.1
+gurux-dlms==1.0.79
+lxml==4.5.1
+paho-mqtt==1.5.0
+pycryptodome==3.9.7
